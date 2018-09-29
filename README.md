@@ -1,2 +1,3 @@
 # hello-world
-A test repository
+A test repository.\n
+Try to learn Git basics.
